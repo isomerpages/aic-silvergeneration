@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Government Agencies/.keep
       - RHS/.keep
       - Active Ageing Centres/.keep
