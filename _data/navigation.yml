@@ -1,15 +1,23 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Divisions
+    url: /permalink
+    sublinks:
+      - title: Admiralty
+        url: /permalink
+      - title: Canberra
+        url: /permalink
+      - title: Sembawang Central
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Sembawang West
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Woodlands
+        url: /permalink
