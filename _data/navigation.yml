@@ -5,19 +5,4 @@ links:
   - title: Example Page
     url: /example-page/
   - title: Divisions
-    url: /permalink
-    sublinks:
-      - title: Admiralty
-        url: /permalink
-      - title: Canberra
-        url: /permalink
-      - title: Sembawang Central
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Sembawang West
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
-      - title: Woodlands
-        url: /permalink
+    collection: divisions
