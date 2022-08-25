@@ -2,4 +2,5 @@ collections:
   divisions:
     output: true
     order:
+      - Admiralty/About Admiralty.md
       - Admiralty/.keep
