@@ -2,6 +2,7 @@ collections:
   divisions:
     output: true
     order:
+      - Admiralty/Services.md
       - Admiralty/.keep
       - Admiralty/About Admiralty.md
       - Canberra/.keep
