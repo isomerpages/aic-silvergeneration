@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: Kawan Sembawang
+description: "Welcome to Kawan Sembawang, a website resource for Silver
+  Generation Office staff and Silver Generation Ambassadors. "
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -40,4 +41,5 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
 
