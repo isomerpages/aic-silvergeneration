@@ -11,7 +11,7 @@ sections:
       title: Kawan Sembawang
       subtitle: We are the Silver Generation Office @ Sembawang. This website is for
         our Ambassadors and Partners!
-      background: /images/hero-banner.png
+      background: /images/Kawan Sembawang.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -41,5 +41,3 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
-
-
