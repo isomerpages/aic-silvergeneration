@@ -1,4 +1,4 @@
-title: Title
+title: Kawan Sembawang
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: "Welcome to Kawan Sembawang, a website resource for Silver
+  Generation Office staff and Silver Generation Ambassadors. "
 permalink: none
 baseurl: ""
 exclude:
