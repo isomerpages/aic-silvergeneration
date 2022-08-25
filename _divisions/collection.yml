@@ -2,6 +2,7 @@ collections:
   divisions:
     output: true
     order:
+      - Admiralty/Activities.md
       - Admiralty/.keep
       - Admiralty/About Admiralty.md
       - Admiralty/Services.md
