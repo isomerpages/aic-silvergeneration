@@ -8,7 +8,8 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Kawan Sembawang
-      subtitle: Description of the site
+      subtitle: We are the Silver Generation Office @ Sembawang. This website is for
+        our Ambassadors and Partners!
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
