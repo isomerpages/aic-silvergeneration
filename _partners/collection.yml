@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Active Ageing Centres/.keep
       - RHS/.keep
