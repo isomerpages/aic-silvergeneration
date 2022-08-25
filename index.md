@@ -34,4 +34,8 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Ikkkkk
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
