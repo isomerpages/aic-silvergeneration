@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Community Care Providers/.keep
       - Government Agencies/.keep
       - RHS/.keep
       - Active Ageing Centres/.keep
