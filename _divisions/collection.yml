@@ -2,10 +2,10 @@ collections:
   divisions:
     output: true
     order:
-      - Admiralty/Activities.md
       - Admiralty/.keep
       - Admiralty/About Admiralty.md
       - Admiralty/Services.md
+      - Admiralty/Activities.md
       - Canberra/.keep
       - Canberra/About Canberra.md
       - Sembawang Central/.keep
