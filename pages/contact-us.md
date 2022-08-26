@@ -2,31 +2,22 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: ""
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 31 Woodlands Avenue 6
+      - "#04-01, Singapore 738991"
+      - Woodlands Galaxy CC
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        description: ""
+    maps_link: https://www.google.com.sg/maps/@1.4390425,103.8003742,17z
+    title: SGD Sembawang Satellite Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6767 1406
+      - email: ""
+      - other: ""
+    title: General Enquiries & Feedback
 ---
