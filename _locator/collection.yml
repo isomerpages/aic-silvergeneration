@@ -1,0 +1,4 @@
+collections:
+  locator:
+    output: true
+    order: []
