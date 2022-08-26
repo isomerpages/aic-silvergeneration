@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Location/.keep
       - Contact Us/.keep
       - Divisions/.keep
       - SGO Sembawang Staff/.keep
