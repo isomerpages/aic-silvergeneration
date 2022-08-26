@@ -24,6 +24,9 @@ sections:
         - title: Services
           description: ""
           url: /privacy/
+        - title: Sembawang SGO Staff
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
