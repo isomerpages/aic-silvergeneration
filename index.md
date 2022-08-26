@@ -18,8 +18,8 @@ sections:
         - title: Functional Screening
           description: Description
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Activities
+          description: Upcoming events
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
