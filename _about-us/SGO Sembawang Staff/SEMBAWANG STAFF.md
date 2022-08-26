@@ -7,19 +7,19 @@ third_nav_title: SGO Sembawang Staff
 ![How Koon Jauw](/images/KJ.jpg)
 ```
 									How Koon Jauw
-			Head, Sembawang Satellite Office
+			Head , Sembawang Satellite Office
 ```
 
 ![Angeline Tan](/images/Angeline%20Tan.jpg)
 ```
 										Angeline Tan
-	 Deputy Head, Sembawang Satellite Office
+	 Deputy Head , Sembawang Satellite Office
 ```
 
 ![Kelvin Ho](/images/Kelvin%20Ho.jpg)
 ```
 											Kelvin Ho
-	Deputy Head, Sembawang Satellite Office
+	Deputy Head , Sembawang Satellite Office
 ```
 
 ![Stephen Pang](/images/Stephen%20Pang.jpg)
@@ -31,13 +31,13 @@ third_nav_title: SGO Sembawang Staff
 ![Shawn Lim](/images/Shawn%20Lim.jpg)
 ```
 											Shawn Lim
-					     Division Lead , Admiralty
+					    Division Lead , Admiralty
 ```
 
 ![Gin Siew](/images/Gin%20Siew.jpg)
 ```
 												Gin Siew
-							 Division Lead, Admiralty
+							 Division Lead , Admiralty
 ```
 
 ![Ng Li Ling](/images/Ng%20Li%20Ling.jpg)
