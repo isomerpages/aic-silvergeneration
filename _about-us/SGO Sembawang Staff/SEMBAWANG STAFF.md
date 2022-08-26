@@ -16,6 +16,12 @@ third_nav_title: SGO Sembawang Staff
 	 Deputy Head, Sembawang Satellite Office
 ```
 
+![Kelvin Ho](/images/Kelvin%20Ho.jpg)
+```
+											Kelvin Ho
+	Deputy Head, Sembawang Satellite Office
+```
+
 ![Stephen Pang](/images/Stephen%20Pang.jpg)
 ```
 											Stephen Pang
