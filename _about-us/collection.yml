@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Divisions/.keep
       - SGO Sembawang Staff/.keep
