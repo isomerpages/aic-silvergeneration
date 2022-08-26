@@ -1,9 +1,0 @@
-collections:
-  partners:
-    output: true
-    order:
-      - Ground Up Initiatives/.keep
-      - Community Care Providers/.keep
-      - Government Agencies/.keep
-      - RHS/.keep
-      - Active Ageing Centres/.keep
