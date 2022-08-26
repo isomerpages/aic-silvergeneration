@@ -21,8 +21,8 @@ sections:
         - title: Activities
           description: Upcoming events
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Services
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
