@@ -26,7 +26,7 @@ sections:
           url: /privacy/
         - title: Sembawang SGO Staff
           description: Key Highlight description
-          url: /privacy/
+          url: /About us/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
