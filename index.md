@@ -26,7 +26,7 @@ sections:
           url: /privacy/
         - title: Sembawang SGO Staff
           description: Key Highlight description
-          url: ""
+          url: https://cms.isomer.gov.sg/sites/aic-silvergeneration/folders/about-us/subfolders/SGO%20Sembawang%20Staff/editPage/SEMBAWANG%20STAFF.md
   - infobar:
       title: Infobar title
       subtitle: Subtitle
