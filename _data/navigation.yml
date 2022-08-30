@@ -6,3 +6,12 @@ links:
     url: /example-page/
   - title: About us
     collection: about-us
+  - title: about us
+    url: /permalink
+    sublinks:
+      - title: a
+        url: /permalink
+      - title: b
+        url: /permalink
+      - title: c
+        url: /permalink
