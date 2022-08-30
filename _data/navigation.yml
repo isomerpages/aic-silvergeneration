@@ -11,8 +11,6 @@ links:
         url: /permalink
       - title: Location
         url: /permalink
-  - title: Contact Us
-    url: /contact-us/
   - title: Info on policies and schemes
     url: /permalink
     sublinks:
@@ -20,3 +18,5 @@ links:
         url: /info-on-policies-and-schemes/SMF/permalink
       - title: EASE
         url: /info-on-policies-and-schemes/EASE/permalink
+  - title: Contact Us
+    url: /contact-us/
