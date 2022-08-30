@@ -19,4 +19,8 @@ This is what you can install in your flat through the EASE programme:
 *   Grab bars in the flat (eight or 10 grab bars for the first toilet, and six grab bars for the second toilet)
 *   Up to five ramps in the flat, and/or at the main entrance – if it is doable
 
-(Source: [Housing and Development Board](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/ease))  
+(Source: [Housing and Development Board](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/ease))
+
+For more infomation on How to Qualify and How to Apply, click here   [EASE](https://www.aic.sg/financial-assistance/enhancement-active-seniors)
+
+
