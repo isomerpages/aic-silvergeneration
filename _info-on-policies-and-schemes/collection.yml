@@ -2,7 +2,6 @@ collections:
   info-on-policies-and-schemes:
     output: true
     order:
-      - IDAP/.keep
       - ElderShield/.keep
       - CareShield Life/.keep
       - PioneerDAS/.keep
