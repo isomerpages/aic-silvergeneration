@@ -20,5 +20,3 @@ This is what you can install in your flat through the EASE programme:
 *   Up to five ramps in the flat, and/or at the main entrance – if it is doable
 
 (Source: [Housing and Development Board](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/ease))  
-
-![](https://www.aic.sg/financial-assistance/PublishingImages/ArticleIcon.jpg)
