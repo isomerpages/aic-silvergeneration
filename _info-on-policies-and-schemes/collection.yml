@@ -2,6 +2,7 @@ collections:
   info-on-policies-and-schemes:
     output: true
     order:
+      - ElderShield/.keep
       - CareShield Life/.keep
       - PioneerDAS/.keep
       - EASE/.keep
