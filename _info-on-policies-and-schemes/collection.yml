@@ -2,6 +2,7 @@ collections:
   info-on-policies-and-schemes:
     output: true
     order:
+      - Befriending Service/.keep
       - Medical Escort and Transport/.keep
       - Meals on Wheels/.keep
       - Medifund/.keep
