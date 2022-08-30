@@ -21,4 +21,6 @@ This is what you can install in your flat through the EASE programme:
 
 (Source: [Housing and Development Board](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/ease))
 
-For more infomation on How to Qualify and How to Apply, click here   [EASE](https://www.aic.sg/financial-assistance/enhancement-active-seniors)
+For more infomation, click here   [EASE](https://www.aic.sg/financial-assistance/enhancement-active-seniors)
+
+For submission of EASE application , click here  [EASE (Direct Application)](https://services2.hdb.gov.sg/webapp/BN37AWEASE/BN37PMain.jsp)
