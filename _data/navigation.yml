@@ -1,12 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: About us
-    collection: about-us
-  - title: about us
+  - title: ABOUT US
     url: /permalink
     sublinks:
       - title: SGO Sembawang Staff
@@ -17,3 +11,5 @@ links:
         url: /permalink
       - title: Location
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
