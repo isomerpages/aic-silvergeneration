@@ -13,3 +13,6 @@ links:
         url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: Info on policies and schemes
+    url: /permalink
+    sublinks: []
