@@ -5,4 +5,3 @@ description: Enhancement for Active Seniors (EASE)
 third_nav_title: EASE
 ---
 ![](/images/EASE%20photo.jpg)
-
