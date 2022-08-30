@@ -15,4 +15,8 @@ links:
     url: /contact-us/
   - title: Info on policies and schemes
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: SMF
+        url: /info-on-policies-and-schemes/SMF/permalink
+      - title: EASE
+        url: /info-on-policies-and-schemes/EASE/permalink
