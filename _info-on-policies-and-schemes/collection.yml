@@ -2,4 +2,5 @@ collections:
   info-on-policies-and-schemes:
     output: true
     order:
+      - EASE/.keep
       - SMF/.keep
