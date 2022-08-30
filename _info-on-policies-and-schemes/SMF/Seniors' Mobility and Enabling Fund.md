@@ -23,6 +23,6 @@ SMF Subsidies Available
 
 To support ageing in place, if your elderly who lives at home and needs subsidies for assistive devices or home healthcare items, you can apply for the following SMF subsidies.
 
-Click here for [Assistive Devices](https://www.aic.sg/financial-assistance/smf-assistive-devices)
+Click here for more info on [Assistive Devices](https://www.aic.sg/financial-assistance/smf-assistive-devices)
 
-CLick here for [Home Healthcare Items](https://www.aic.sg/financial-assistance/smf-home-healthcare-items)
+Click here for more info on [Home Healthcare Items](https://www.aic.sg/financial-assistance/smf-home-healthcare-items)
