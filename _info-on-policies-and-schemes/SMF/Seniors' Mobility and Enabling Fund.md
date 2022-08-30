@@ -26,8 +26,3 @@ To support ageing in place, if your elderly who lives at home and needs subsidie
 Click here for [Assistive Devices](https://www.aic.sg/financial-assistance/smf-assistive-devices)
 
 CLick here for [Home Healthcare Items](https://www.aic.sg/financial-assistance/smf-home-healthcare-items)
-
-
-
-
-
