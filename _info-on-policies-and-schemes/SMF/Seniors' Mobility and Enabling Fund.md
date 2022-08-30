@@ -5,4 +5,6 @@ description: ""
 third_nav_title: SMF
 image: /images/SMF photos.jpg
 ---
-
+```
+![](/images/SMF%20photos.jpg)
+```
