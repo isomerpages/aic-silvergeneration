@@ -2,6 +2,7 @@ collections:
   info-on-policies-and-schemes:
     output: true
     order:
+      - Advance Care Planning/.keep
       - AIC Wellness Programme/.keep
       - Integrated Home And Day Care/.keep
       - Shelters & Senior Group Homes/.keep
