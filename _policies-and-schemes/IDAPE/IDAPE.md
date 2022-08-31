@@ -30,4 +30,3 @@ For more info, click here [IDAPE](https://www.aic.sg/financial-assistance/interi
 For the list of assessors, click [here](https://www.aic.sg/Assessors-list)
 
 For submission of application, click [eFASS](https://efinance.aic.sg/)
-
