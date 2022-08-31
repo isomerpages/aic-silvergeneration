@@ -19,4 +19,8 @@ Eligible Singapore Citizens can receive up to $250 cash per month for as long as
 
 For more info, click [here](https://www.aic.sg/financial-assistance/elderfund)
 
+For the list of assessors, click [here](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/IDAPE%20Assessor%20List.pdf)
+
+
+
 
