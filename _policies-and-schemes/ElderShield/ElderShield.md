@@ -20,7 +20,3 @@ For more info, click [here](https://www.aic.sg/financial-assistance/eldershield)
 For the list of assessors, click [here](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/IDAPE%20Assessor%20List.pdf)
 
 For submission of application, click [here](https://efinance.aic.sg/)
-
-
-
-
