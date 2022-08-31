@@ -15,8 +15,9 @@ MediSave Care is a long-term care scheme that was launched on 1 October 2020. It
 
 For more info, click [here](https://www.aic.sg/financial-assistance/medisave-care)
 
+For the list of assessors, click [here](https://www.aic.sg/Assessors-list)
 
-
+For submission of application, click [eFASS](https://efinance.aic.sg/)
 
 
 
