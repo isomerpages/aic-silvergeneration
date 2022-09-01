@@ -17,7 +17,3 @@ Compared with Active Ageing Centres, Active Ageing Care Hubs provide additional 
 If you are staying at Woodlands Ring Road, click [here](/partners/Active-Ageing-Centre-and-Hub/ntuc-aach-at-kampung-admiralty/)
 
 If you are staying at Woodlands Circles, click [here](/partners/Active-Ageing-Centre-and-Hub/sunlove-golden-saffron/)
-
-
-
-
