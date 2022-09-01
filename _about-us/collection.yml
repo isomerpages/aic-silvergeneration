@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SEMBAWANG STAFF.md
-      - SGO Sembawang Staff/.keep
       - Divisions/.keep
       - Contact Us/.keep
       - Location/.keep
