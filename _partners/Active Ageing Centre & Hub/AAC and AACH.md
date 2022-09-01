@@ -13,6 +13,3 @@ An Active Ageing Centre (AAC) or an Active Ageing Care Hub (AACH) is a drop-in s
 Compared with Active Ageing Centres, Active Ageing Care Hubs provide additional care services, such as day care and community rehabilitation, in separate facilities nearby.
 
 ------------------------------------------------------------
-
-
-
