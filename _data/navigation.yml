@@ -2,38 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: Policies and schemes
-    url: /permalink
-    sublinks:
-      - title: SMF
-        url: /info-on-policies-and-schemes/SMF/permalink
-      - title: EASE
-        url: /info-on-policies-and-schemes/EASE/permalink
-      - title: PioneerDAS
-        url: /info-on-policies-and-schemes/PioneerDAS/permalink
-      - title: CareShield Life
-        url: /permalink
-      - title: ElderShield
-        url: /permalink
-      - title: IDAPE
-        url: /permalink
-      - title: MediSave Care
-        url: /permalink
-      - title: Elderfund
-        url: /permalink
-      - title: Caregiver Training Grant
-        url: /permalink
-      - title: Home Caregiving Grant
-        url: /permalink
-      - title: MDWLC
-        url: /permalink
-      - title: Meals on Wheels
-        url: /permalink
-      - title: Medical Escort & Transport
-        url: /permalink
-      - title: Befriending Service
-        url: /permalink
-      - title: Advance Care Planning
-        url: /permalink
   - title: Contact Us
     url: /contact-us/
+  - title: Policies and Schemes
+    collection: policies-and-schemes
