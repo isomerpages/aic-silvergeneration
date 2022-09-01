@@ -21,38 +21,23 @@ third_nav_title: SGO Sembawang Staff
 		<td>Deputy Head , Sembawang Satellite Office</td>
   </tr>
 	<tr>  
-    <td><img src="/images/Kelvin%20Ho.jpg" alt="Kelvin Ho" style="width:200px;"/></td>  
-    <td>Kelvin Ho</td>
-		<td>Deputy Head , Sembawang Satellite Office</td>
+    <td><img src="/images/Stephen%20Pang.jpg" alt="Kelvin Ho" style="width:200px;"/></td>  
+    <td>Stephen Pang</td>
+		<td>Senior Division Lead</td>
+  </tr>
+		<tr>  
+    <td><img src="/images/Shawn%20Lim.jpg" alt="Kelvin Ho" style="width:200px;"/></td>  
+    <td>Shawn Lim</td>
+		<td>Division Lead , Admiralty</td>
+  </tr>
+		<tr>  
+    <td><img src="/images/Gin%20Siew.jpg" alt="Gin Siew" style="width:200px;"/></td>  
+    <td>Gin Siew</td>
+		<td>Division Lead , Admiralty</td>
   </tr>
 </table>
     
 
-
-
-![Kelvin Ho](/images/Kelvin%20Ho.jpg)
-```
-											
-	Deputy Head , Sembawang Satellite Office
-```
-
-![Stephen Pang](/images/Stephen%20Pang.jpg)
-```
-											Stephen Pang
-									Senior Division Lead
-```
-
-![Shawn Lim](/images/Shawn%20Lim.jpg)
-```
-											Shawn Lim
-					    Division Lead , Admiralty
-```
-
-![Gin Siew](/images/Gin%20Siew.jpg)
-```
-												Gin Siew
-							 Division Lead , Admiralty
-```
 
 ![Ng Li Ling](/images/Ng%20Li%20Ling.jpg)
 ```
