@@ -4,7 +4,6 @@ permalink: /partners/Active-Ageing-Centre-and-Hub/aac-aach/
 description: ""
 third_nav_title: Active Ageing Centre & Hub
 ---
-
 Active Ageing Centres/Active Ageing Care Hubs (AAC/AACHs)  
 
 ------------------------------------------------------------
@@ -15,4 +14,9 @@ Compared with Active Ageing Centres, Active Ageing Care Hubs provide additional 
 
 ------------------------------------------------------------
 
-If you are satying at Woodlands Ring Road, click [here](/partners/Active-Ageing-Centre-and-Hub/permalink/)
+If you are staying at Woodlands Ring Road, click [here](/partners/Active-Ageing-Centre-and-Hub/ntuc-aach-at-kampung-admiralty/)
+
+
+
+
+
