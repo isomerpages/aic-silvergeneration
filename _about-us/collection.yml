@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - SGO Sembawang Staff.md
+      - Divisions/Canberra.md
       - Divisions/Admiralty.md
       - Divisions/.keep
       - Contact Us/.keep
