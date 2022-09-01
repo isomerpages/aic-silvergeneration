@@ -35,54 +35,44 @@ third_nav_title: SGO Sembawang Staff
     <td>Gin Siew</td>
 		<td>Division Lead , Admiralty</td>
   </tr>
+			<tr>  
+    <td><img src="/images/Ng%20Li%20Ling.jpg" alt="	Ng Li Ling" style="width:200px;"/></td>  
+    <td>Ng Li Ling</td>
+		<td>Division Lead , Woodlands</td>
+  </tr>
+			<tr>  
+    <td><img src="/images/Anbalagan.jpg" alt="Anbalagan" style="width:200px;"/></td>  
+    <td>Anbalagan</td>
+		<td>Division Lead , Woodlands</td>
+  </tr>
+	<tr>  
+    <td><img src="/images/Koh%20Hui%20Ying.jpg" alt="Koh Hui Ying" style="width:200px;"/></td>  
+    <td>Koh Hui Ying</td>
+		<td>Division Lead , Sembawang West</td>
+  </tr>
+	<tr>  
+    <td><img src="/images/Dinah%20Shaik.jpg" alt="Dinah Shaik" style="width:200px;"/></td>  
+    <td>Dinah Shaik</td>
+		<td>Division Lead , Sembawang West</td>
+  </tr>
+	<tr>  
+    <td><img src="/images/Alan%20Chng.jpg" alt="Alan Chng" style="width:200px;"/></td>  
+    <td>Alan Chng</td>
+		<td>Division Lead , Canberra</td>
+  </tr>
+	<tr>  
+    <td><img src="/images/Belle%20Eng.jpg" alt="Belle Eng" style="width:200px;"/></td>  
+    <td>Belle Eng</td>
+		<td>Division Lead , Canberra</td>
+  </tr>
+	<tr>  
+    <td><img src="/images/Kelvin%20Tan.jpg" alt="Kelvin Tan" style="width:200px;"/></td>  
+    <td>Kelvin Tan</td>
+		<td>Division Lead , Sembawang Central</td>
+  </tr>
+	<tr>  
+    <td><img src="/images/Annie%20Tan.jpg" alt="Annie Tan" style="width:200px;"/></td>  
+    <td>Annie Tan</td>
+		<td>Division Lead , Sembawang Central</td>
+  </tr>
 </table>
-    
-
-
-![Ng Li Ling](/images/Ng%20Li%20Ling.jpg)
-```
-												Ng Li Ling
-							Division Lead , Woodlands
-```
-
-![Bala](/images/Anbalagan.jpg)
-```
-											Anbalagan
-							Division Lead , Woodlands
-```
-
-![Hui Ying](/images/Koh%20Hui%20Ying.jpg)
-```
-										Koh Hui Ying
-				Division Lead , Sembawang West
-```
-
-![Dinah](/images/Dinah%20Shaik.jpg)
-```
-										Dinah Shaik
-				Division Lead , Sembawang West
-```
-
-![Alan](/images/Alan%20Chng.jpg)
-```
-											Alan Chng
-						 Division Lead , Canberra
-```
-
-![Belle Eng](/images/Belle%20Eng.jpg)
-```
-											Belle Eng
-						Division Lead , Canberra
-```
-
-![Kelvin](/images/Kelvin%20Tan.jpg)
-```
-											Kelvin Tan
-				Division Lead , Sembawang Central
-```
-
-![Annie](/images/Annie%20Tan.jpg)
-```
-											   Annie Tan
-			 Division Lead , Sembawang Central
-```
