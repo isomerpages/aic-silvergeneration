@@ -4,17 +4,21 @@ permalink: /about-us/SGO-Sembawang-Staff/STAFF/
 description: ""
 third_nav_title: SGO Sembawang Staff
 ---
-![How Koon Jauw](/images/KJ.jpg)
-```
-* 									How Koon Jauw
-* 			Head , Sembawang Satellite Office
-```
+<table>  
+  <tr>  
+    <td><img src="/images/KJ.jpg" alt="How Koon Jauw" style="width:200px;"/></td>  
+    <td>How Koon Jauw</td>
+		<td>Head , Sembawang Satellite Office</td>
+  </tr>   
+	  <tr>  
+    <td><img src="/images/Angeline%20Tan.jpg" alt="Angeline Tan" style="width:200px;"/></td>  
+    <td>Angeline Tan</td>
+		<td>Deputy Head , Sembawang Satellite Office</td>
+  </tr>  
+</table>
 
-![Angeline Tan](/images/Angeline%20Tan.jpg)
-```
-										Angeline Tan
-	 Deputy Head , Sembawang Satellite Office
-```
+
+
 
 ![Kelvin Ho](/images/Kelvin%20Ho.jpg)
 ```
