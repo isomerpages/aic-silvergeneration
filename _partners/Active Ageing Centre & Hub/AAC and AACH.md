@@ -15,6 +15,3 @@ Compared with Active Ageing Centres, Active Ageing Care Hubs provide additional 
 ------------------------------------------------------------
 
 If you are satying at Woodlands Ring Road, click [here](/partners/Active-Ageing-Centre-and-Hub/permalink/)
-
-
-
