@@ -2,4 +2,5 @@ collections:
   services-in-your-division:
     output: true
     order:
+      - Canberra.md
       - Admiralty.md
