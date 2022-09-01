@@ -6,7 +6,6 @@ third_nav_title: Active Ageing Centre & Hub
 ---
 **Sunlove – Golden Saffron**
 ============================
-Blk 676 Woodlands Drive 71 #06-01 Singapore 730676
-
+Blk 764B, Woodlands Circle, #01-208 Singapore 732764
 
 
