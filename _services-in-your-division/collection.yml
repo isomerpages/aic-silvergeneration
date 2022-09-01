@@ -2,6 +2,7 @@ collections:
   services-in-your-division:
     output: true
     order:
+      - Sembawang West/.keep
       - Sembawang Central/.keep
       - Canberra.md
       - Admiralty.md
