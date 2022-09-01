@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - SGO Sembawang Staff/SEMBAWANG STAFF.md
       - SGO Sembawang Staff/.keep
       - Divisions/.keep
       - Contact Us/.keep
