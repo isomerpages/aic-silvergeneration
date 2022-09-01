@@ -26,10 +26,3 @@ For more info, click [here](https://www.aic.sg/financial-assistance/caregivers-t
 Choose a course from the e-calendar. Click [here](https://www.aic.sg/caregiving/caregiver-training-course)
 
 You may also download the [ CTG application form](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/CTG%20Application%20Form.pdf)
-
-
-
-
-
-
-
