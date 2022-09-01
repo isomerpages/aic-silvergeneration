@@ -4,9 +4,9 @@ links:
     collection: about-us
   - title: Policies and Schemes
     collection: policies-and-schemes
-  - title: Contact Us
-    url: /contact-us/
-  - title: services in your division
-    collection: services-in-your-division
   - title: Partners
     collection: partners
+  - title: services in your division
+    collection: services-in-your-division
+  - title: Contact Us
+    url: /contact-us/
