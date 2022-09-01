@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - SGO Sembawang Staff.md
+      - Divisions/Woodlands.md
       - Divisions/Sembawang West.md
       - Divisions/Sembawang Central.md
       - Divisions/Canberra.md
