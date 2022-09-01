@@ -1,4 +1,5 @@
 collections:
   services-in-your-division:
     output: true
-    order: []
+    order:
+      - Admiralty.md
