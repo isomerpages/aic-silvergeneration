@@ -2,8 +2,8 @@ collections:
   services-in-your-division:
     output: true
     order:
-      - Woodlands.md
-      - Sembawang West/.keep
-      - Sembawang Central/.keep
-      - Canberra.md
       - Admiralty.md
+      - Canberra.md
+      - Sembawang Central/.keep
+      - Sembawang West/.keep
+      - Woodlands.md
