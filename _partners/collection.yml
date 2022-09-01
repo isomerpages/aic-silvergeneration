@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - AAC & AACH.md
       - Active Ageing Centre & Hub/.keep
       - Our Grassroots Advisers.md
