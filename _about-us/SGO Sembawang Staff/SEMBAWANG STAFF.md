@@ -15,14 +15,24 @@ third_nav_title: SGO Sembawang Staff
     <td>Angeline Tan</td>
 		<td>Deputy Head , Sembawang Satellite Office</td>
   </tr>  
+	<tr>  
+    <td><img src="/images/Kelvin%20Ho.jpg" alt="Kelvin Ho" style="width:200px;"/></td>  
+    <td>Kelvin Ho</td>
+		<td>Deputy Head , Sembawang Satellite Office</td>
+  </tr>
+	<tr>  
+    <td><img src="/images/Kelvin%20Ho.jpg" alt="Kelvin Ho" style="width:200px;"/></td>  
+    <td>Kelvin Ho</td>
+		<td>Deputy Head , Sembawang Satellite Office</td>
+  </tr>
 </table>
-
+    
 
 
 
 ![Kelvin Ho](/images/Kelvin%20Ho.jpg)
 ```
-											Kelvin Ho
+											
 	Deputy Head , Sembawang Satellite Office
 ```
 
