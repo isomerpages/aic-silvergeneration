@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Active Ageing Centre & Hub/.keep
       - Our Grassroots Advisers.md
