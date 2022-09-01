@@ -6,3 +6,16 @@ links:
     collection: policies-and-schemes
   - title: Contact Us
     url: /contact-us/
+  - title: Services in your division
+    url: /permalink
+    sublinks:
+      - title: Admiralty
+        url: /permalink
+      - title: Canberra
+        url: /permalink
+      - title: Sembawang Central
+        url: /permalink
+      - title: Sembawang West
+        url: /permalink
+      - title: Woodlands
+        url: /permalink
