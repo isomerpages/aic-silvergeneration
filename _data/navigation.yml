@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: Contact Us
-    url: /contact-us/
   - title: Policies and Schemes
     collection: policies-and-schemes
+  - title: Contact Us
+    url: /contact-us/
