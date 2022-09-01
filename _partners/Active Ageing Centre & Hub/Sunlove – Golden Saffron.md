@@ -35,5 +35,3 @@ Direction, click [here](https://www.google.com/maps/place/Block+764A+HDB+Woodlan
 For more info, click [here](https://sunlove.org.sg/)
 
 ------------------------------------------------------------
-
-
