@@ -5,9 +5,9 @@ description: ""
 ---
 <table>  
   <tr>  
-    <td><img src="/images/KJ.jpg" alt="How Koon Jauw" style="width:400px;"/></td>  
-    <td>How Koon Jauw</td>
-		<td>Head , Sembawang Satellite Office</td>
+			<td>Head , Sembawang Satellite Office</td>
+		  <td>How Koon Jauw</td>
+    <td><img src="/images/KJ.jpg" alt="How Koon Jauw" style="width:400px;"/></td>  	
   </tr>   
 	  <tr>  
     <td><img src="/images/Angeline_Tan.jpg" alt="Angeline Tan" style="width:400px;"/></td>  
