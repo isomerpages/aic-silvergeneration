@@ -20,7 +20,7 @@ description: ""
 		<td>Deputy Head , Sembawang Satellite Office</td>
   </tr>
 	<tr>  
-    <td><img src="/images/Stephen%20Pang.jpg" alt="Kelvin Ho" style="width:200px;"/></td>  
+    <td><img src="/images/Stephen_Right.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
     <td>Stephen Pang</td>
 		<td>Senior Division Lead</td>
   </tr>
