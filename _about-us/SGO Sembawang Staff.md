@@ -25,7 +25,7 @@ description: ""
 		<td>Senior Division Lead</td>
   </tr>
 		<tr>  
-    <td><img src="/images/Shawn%20Lim.jpg" alt="Kelvin Ho" style="width:200px;"/></td>  
+    <td><img src="/images/Shawn Lim_Left.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
     <td>Shawn Lim</td>
 		<td>Division Lead , Admiralty</td>
   </tr>
