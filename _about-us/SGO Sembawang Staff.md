@@ -45,7 +45,7 @@ description: ""
 		<td>Division Lead , Woodlands</td>
   </tr>
 	<tr>  
-    <td><img src="/images/Koh%20Hui%20Ying.jpg" alt="Koh Hui Ying" style="width:200px;"/></td>  
+    <td><img src="/images/Koh Hui Ying 1.jpg" alt="Koh Hui Ying" style="width:400px;"/></td>  
     <td>Koh Hui Ying</td>
 		<td>Division Lead , Sembawang West</td>
   </tr>
