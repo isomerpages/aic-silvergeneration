@@ -64,7 +64,7 @@ description: ""
 		<td>Division Lead , Canberra</td>
   </tr>
 	<tr>  
-    <td><img src="/images/Kelvin Tan_Right.jpg" alt="Kelvin Tan" style="width:400px;"/></td>  
+    <td><img src="/images/Kelvin_Tan.jpg" alt="Kelvin Tan" style="width:400px;"/></td>  
     <td>Kelvin Tan</td>
 		<td>Division Lead , Sembawang Central</td>
   </tr>
