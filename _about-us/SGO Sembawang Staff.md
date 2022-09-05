@@ -34,7 +34,7 @@ description: ""
 		<td>Division Lead , Admiralty</td>
   </tr>
 			<tr>  
-    <td><img src="/images/Ng Li Ling_Left.jpg" alt="	Ng Li Ling" style="width:400px;"/></td>  
+    <td><img src="/images/Ng_Li Ling.jpg" alt="	Ng Li Ling" style="width:400px;"/></td>  
     <td>Ng Li Ling</td>
 		<td>Division Lead , Woodlands</td>
   </tr>
