@@ -10,7 +10,7 @@ description: ""
 		<td>Head , Sembawang Satellite Office</td>
   </tr>   
 	  <tr>  
-    <td><img src="/images/Angeline%20Tan.jpg" alt="Angeline Tan" style="width:200px;"/></td>  
+    <td><img src="/images/Angeline_Tan.jpg" alt="Angeline Tan" style="width:400px;"/></td>  
     <td>Angeline Tan</td>
 		<td>Deputy Head , Sembawang Satellite Office</td>
   </tr>  
