@@ -15,9 +15,9 @@ description: ""
 		<td>Deputy Head , Sembawang Satellite Office</td>
   </tr>  
 	<tr>  
+		<td>Deputy Head , Sembawang Satellite 	Office</td>
+		<td>Kelvin Ho</td>
     <td><img src="/images/Kelvin%20Ho.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
-    <td>Kelvin Ho</td>
-		<td>Deputy Head , Sembawang Satellite Office</td>
   </tr>
 	<tr>  
     <td><img src="/images/Stephen_Right.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
