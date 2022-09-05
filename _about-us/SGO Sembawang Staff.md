@@ -54,7 +54,7 @@ description: ""
 		<td>Division Lead , Sembawang West</td>
   </tr>
 	<tr>  
-    <td><img src="/images/Alan_Right_Spec.jpg" alt="Alan Chng" style="width:400px;"/></td>  
+    <td><img src="/images/Alan_Chng.jpg" alt="Alan Chng" style="width:400px;"/></td>  
     <td>Alan Chng</td>
 		<td>Division Lead , Canberra</td>
   </tr>
