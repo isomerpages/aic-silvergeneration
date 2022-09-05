@@ -3,8 +3,6 @@ title: SGO Sembawang Staff
 permalink: /about-us/SGO-Sembawang-Staff/
 description: ""
 ---
-
-
 <table>  
   <tr>  
     <td><img src="/images/KJ.jpg" alt="How Koon Jauw" style="width:200px;"/></td>  
@@ -57,7 +55,7 @@ description: ""
 		<td>Division Lead , Sembawang West</td>
   </tr>
 	<tr>  
-    <td><img src="/images/Alan%20Chng.jpg" alt="Alan Chng" style="width:200px;"/></td>  
+    <td><img src="/images/Alan_Right_Spec.jpg" alt="Alan Chng" style="width:400px;"/></td>  
     <td>Alan Chng</td>
 		<td>Division Lead , Canberra</td>
   </tr>
