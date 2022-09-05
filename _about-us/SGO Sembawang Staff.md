@@ -20,8 +20,7 @@ description: ""
     <td><img src="/images/Kelvin%20Ho.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
   </tr>
 	<tr>  
-    <td><img src="/images/Stephen_Right.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
-    <td>Stephen Pang</td>
+    <td><img src="/images/Stephen_Pang.jpg" alt="Stephen Pang" style="width:400px;"/></td>      <td>Stephen Pang</td>
 		<td>Senior Division Lead</td>
   </tr>
 		<tr>  
