@@ -43,7 +43,7 @@ sections:
       description: For our mightly Silver Generation ambassadors and esteemed partners
       button: Click here to RSVP
       alt: Image alt text
-      url: www.google.com
+      url: https://form.gov.sg/#!/62f37085b278800013492486
   - infobar:
       title: SGO 8th Anniversary
       subtitle: Latest Update
