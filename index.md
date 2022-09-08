@@ -34,16 +34,16 @@ sections:
       description: "We are the Silver Generation Office @ Sembawang. Our staff serve
         with compassion across Admiralty, Canberra, Sembawang Central, Sembawang
         West and Woodlands. "
-      button: Where to locate us
+      button: Locate us
       alt: Ikkkkk
       image: /images/Homepage_Sembawang SGO.jpeg
       url: https://www.google.com.sg/maps/d/viewer?mid=1pS8QYFr6ks0dZ47So3BzMiwpqVhxmb7c&hl=en_GB&ll=1.3593061164125717%2C103.83711189999998&z=13
   - infopic:
       title: SGO 8th Anniversary
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: For our mightly Silver Generation ambassadors and esteemed partners
+      button: Click here to sign up
       alt: Image alt text
+      url: www.google.com
   - infobar:
       title: SGO 8th Anniversary
       subtitle: Latest Update
