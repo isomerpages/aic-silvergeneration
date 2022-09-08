@@ -26,16 +26,17 @@ sections:
           url: /about-us/SGO-Sembawang-Staff/
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
+      subtitle: SUbtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic Title
+      title: Welcome,
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: "Our staff and Silver Generation Ambassadors "
       button: Button Text
       alt: Ikkkkk
+      image: /images/Homepage_Sembawang SGO.jpeg
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
