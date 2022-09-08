@@ -22,11 +22,8 @@ sections:
         - title: Do you qualify for financial help?
           description: self-assessment-tool
           url: https://www.aic.sg/financial-assistance/self-assessment-tool
-        - title: Our Staff
-          description: Highlight Description
-          url: /about-us/Our-Staff
-        - title: Bimonthly Newsletter
-          description: Sembawang | Our Space
+        - title: Sembawang | Our Space
+          description: Bimonthly Newsletter
           url: www.google.com
   - infopic:
       title: Welcome,
