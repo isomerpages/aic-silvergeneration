@@ -37,7 +37,7 @@ sections:
       button: Contact Us
       alt: Ikkkkk
       image: /images/Homepage_Sembawang SGO.jpeg
-      url: https://www.google.com.sg/maps/d/viewer?mid=1pS8QYFr6ks0dZ47So3BzMiwpqVhxmb7c&hl=en_GB&ll=1.3593061164125717%2C103.83711189999998&z=13
+      url: /contact-us/
   - infopic:
       title: 8th Anniversary Celebration
       description: For our mighty Silver Generation Ambassadors and esteemed Community
