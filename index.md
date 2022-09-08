@@ -23,8 +23,8 @@ sections:
         - title: Do you qualify for financial help?
           description: self-assessment-tool
           url: https://www.aic.sg/financial-assistance/self-assessment-tool
-        - title: Sembawang SGO Staff
-          description: Key Highlight description
+        - title: Our Staff
+          description: Highlight Description
           url: /about-us/SGO-Sembawang-Staff/
         - title: Bimonthly Newsletter
           description: Sembawang | Our Space
