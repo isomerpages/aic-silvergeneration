@@ -16,7 +16,8 @@ MediShield Life is medical insurance that provides life-time coverage for all Si
 
 The premiums for MediShield Life can be paid using Medisave funds or cash. The Government has also provided subsidies for lower- and middle-income Singaporeans, as well as for Pioneer Generation members. There are also subsidies for the first four years of MediShield Life, as people move from MediShield to MediShield Life.
 
+--------------------------------------------------
+
 For full details on the MediaShield Life Benefits, visit this [MOH webpage](https://www.moh.gov.sg/medishield-life/what-is-medishield-life/what-medishield-life-benefits).
 
 You can find out more about MediShield Life on the Ministry of Health's [website](https://www.moh.gov.sg/medishield-life/what-is-medishield-life/how-to-make-a-medishield-life-claim).
-
