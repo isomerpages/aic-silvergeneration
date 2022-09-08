@@ -27,12 +27,3 @@ Mail the application form to below address,
 P.O. Box 680   
 Bukit Merah Central Post Office  
 Singapore 911536
-
-
-
-
-
-
-
-
-
