@@ -33,13 +33,13 @@ sections:
       url: /faq/
   - infopic:
       title: Welcome,
-      subtitle: Infopic Subtitle
-      description: "We are the Silver Generation Office @ Sembawang. Serving seniors
-        across Admiralty, Canberra, Sembawang Central, Sembawang West and
-        Woodlands. "
-      button: Button Text
+      description: "We are the Silver Generation Office @ Sembawang. Our staff serve
+        with compassion across Admiralty, Canberra, Sembawang Central, Sembawang
+        West and Woodlands. "
+      button: Where to locate us
       alt: Ikkkkk
       image: /images/Homepage_Sembawang SGO.jpeg
+      url: https://www.google.com.sg/maps/d/viewer?mid=1pS8QYFr6ks0dZ47So3BzMiwpqVhxmb7c&hl=en_GB&ll=1.3593061164125717%2C103.83711189999998&z=13
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
