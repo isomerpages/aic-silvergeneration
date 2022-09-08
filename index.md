@@ -33,7 +33,9 @@ sections:
   - infopic:
       title: Welcome,
       subtitle: Infopic Subtitle
-      description: "Our staff and Silver Generation Ambassadors "
+      description: "We are the Silver Generation Office @ Sembawang. Serving seniors
+        across Admiralty, Canberra, Sembawang Central, Sembawang West and
+        Woodlands. "
       button: Button Text
       alt: Ikkkkk
       image: /images/Homepage_Sembawang SGO.jpeg
