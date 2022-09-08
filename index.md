@@ -11,7 +11,8 @@ notification: This website will be undergoing a scheduled maintenance on 31
 sections:
   - hero:
       title: Kawan Sembawang
-      subtitle: Bringing our seniors and community partners the best service and care.
+      subtitle: Bringing our seniors and community partners the best service, care,
+        and partnerships.
       background: /images/Kawan SemSO.jpg
       button: Contact Us
       url: /contact-us/
