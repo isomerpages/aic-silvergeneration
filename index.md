@@ -14,7 +14,6 @@ sections:
       subtitle: Bringing our seniors and community partners the best service, care,
         and partnerships.
       background: /images/Kawan SemSO.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Project Silver Screen
