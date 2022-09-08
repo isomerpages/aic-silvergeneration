@@ -46,18 +46,12 @@ sections:
       alt: Image alt text
       url: https://form.gov.sg/#!/62f37085b278800013492486
   - infobar:
-      title: SGO 8th Anniversary
-      subtitle: Latest Update
-      description: About a sentence worth of description here
-      button: Click here to sign up
-      url: /faq/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
-  - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
