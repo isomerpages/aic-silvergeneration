@@ -19,8 +19,8 @@ sections:
           description: Description
           url: https://google.com
         - title: Do you qualify for financial help?
-          description: You may be eligible for !
-          url: https://www.aic.sg/
+          description: self-assessment-tool
+          url: https://www.aic.sg/financial-assistance/self-assessment-tool-result
         - title: Services
           description: ""
           url: /privacy/
