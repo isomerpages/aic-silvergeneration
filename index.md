@@ -11,8 +11,7 @@ notification: This website will be undergoing a scheduled maintenance on 31
 sections:
   - hero:
       title: Kawan Sembawang
-      subtitle: We are the Silver Generation Office @ Sembawang. This website is for
-        our Ambassadors and Partners!
+      subtitle: Bringing our seniors and community partners the best service and care.
       background: /images/Kawan SemSO.jpg
       button: Contact Us
       url: /contact-us/
