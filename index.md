@@ -5,7 +5,9 @@ description: "Welcome to Kawan Sembawang, a website resource for Silver
   Generation Office staff and Silver Generation Ambassadors. "
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "[Example] This website will be undergoing a scheduled maintenance
+  on 31 December 2022, Friday from 0000hr to 2359hr. Information updated as of 9
+  September 2022. We apologise for any inconvenience caused."
 sections:
   - hero:
       title: Kawan Sembawang
