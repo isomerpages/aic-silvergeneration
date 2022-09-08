@@ -24,8 +24,7 @@ For Functional Assessment Report (FAR), click [here](https://www.aic.sg/financia
 
 For contacts of MOH-accredited severe disability assessor, click  [here](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/IDAPE%20Assessor%20List.pdf)
 
-
-
-
+For application through  AIC eService portal (eFASS), click [here](https://efinance.aic.sg/)
+please email us at [apply@aic.sg](mailto:apply@aic.sg) or walk in to any of our [AIC links](https://www.aic.sg/aic-link) to request for a hardcopy application form.
 
 
