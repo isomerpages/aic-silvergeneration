@@ -20,7 +20,7 @@ sections:
           url: https://google.com
         - title: Do you qualify for financial help?
           description: self-assessment-tool
-          url: https://www.aic.sg/financial-assistance/self-assessment-tool-result
+          url: https://www.aic.sg/financial-assistance/self-assessment-tool
         - title: Sembawang SGO Staff
           description: Key Highlight description
           url: /about-us/SGO-Sembawang-Staff/
