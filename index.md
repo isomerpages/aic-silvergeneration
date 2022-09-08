@@ -25,7 +25,7 @@ sections:
           url: https://www.aic.sg/financial-assistance/self-assessment-tool
         - title: Our Staff
           description: Highlight Description
-          url: /about-us/SGO-Sembawang-Staff/
+          url: /about-us/Our-Staff
         - title: Bimonthly Newsletter
           description: Sembawang | Our Space
           url: www.google.com
