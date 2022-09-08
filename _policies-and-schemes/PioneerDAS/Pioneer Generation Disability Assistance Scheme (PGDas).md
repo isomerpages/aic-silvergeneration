@@ -12,9 +12,9 @@ Introduction to Pioneer Generation Disability Assistance Scheme
 
 The Pioneer Generation Disability Assistance Scheme (PioneerDAS) is part of the Pioneer Generation Package, which honours what Singapore's Pioneers have done for the country. Under this scheme, Pioneers who have disabilities can receive $100 a month, which they can use for expenses.
 
-For more infomation, click here [PGDas](https://www.aic.sg/financial-assistance/pioneer-generation-disability-assistance-scheme)
+For more infomation on Pioneer Generation Disability Assistance Scheme , click here [here](https://www.aic.sg/financial-assistance/pioneer-generation-disability-assistance-scheme)
 
-For Functional Assessment Report, click here [FAR](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/Functional%20Assessment%20Report.pdf)
+For Functional Assessment Report, click here [here](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/Functional%20Assessment%20Report.pdf)
 
 For application through  AIC eService portal (eFASS), click [here](https://efinance.aic.sg/)
 please email us at [apply@aic.sg](mailto:apply@aic.sg) or walk in to any of our [AIC links](https://www.aic.sg/aic-link) to request for a hardcopy application form.
