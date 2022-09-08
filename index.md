@@ -45,6 +45,7 @@ sections:
       button: Click here to RSVP
       alt: Image alt text
       url: https://form.gov.sg/#!/62f37085b278800013492486
+      image: /images/Homepage_8th Anniversary.png
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
