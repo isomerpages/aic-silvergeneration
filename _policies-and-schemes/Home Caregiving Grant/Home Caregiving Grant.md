@@ -20,12 +20,9 @@ This grant can be used to defray the costs of caregiving expenses, such as the c
 
 For more info on Home Caregiving Grant, click [here](https://www.aic.sg/financial-assistance/home-caregiving-grant)
 
-For Functional Assessment Report, click [herer](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/Functional%20Assessment%20Report.pdf)
+For Functional Assessment Report (FAR), click [herer](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/Functional%20Assessment%20Report.pdf)
 
-For contact of MOH-accredited severe disability assessor, click  [here](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/IDAPE%20Assessor%20List.pdf)
-
-
-
+For contacts of MOH-accredited severe disability assessor, click  [here](https://www.aic.sg/financial-assistance/Documents/Application%20Forms/IDAPE%20Assessor%20List.pdf)
 
 
 
