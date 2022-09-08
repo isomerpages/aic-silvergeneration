@@ -39,10 +39,10 @@ sections:
       image: /images/Homepage_Sembawang SGO.jpeg
       url: https://www.google.com.sg/maps/d/viewer?mid=1pS8QYFr6ks0dZ47So3BzMiwpqVhxmb7c&hl=en_GB&ll=1.3593061164125717%2C103.83711189999998&z=13
   - infobar:
-      title: Infobar title
-      subtitle: SUbtitle
+      title: SGO 8th Anniversary
+      subtitle: Latest Update
       description: About a sentence worth of description here
-      button: Button text
+      button: Click here to sign up
       url: /faq/
   - resources:
       title: Resources Section Title
