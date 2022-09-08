@@ -17,5 +17,3 @@ Compared with Active Ageing Centres, Active Ageing Care Hubs provide additional 
 -----------------------------------------------
 
 For more info on Introduction to Active Ageing Centres/Active Ageing Care Hubs (AAC/AACHs), click [here](https://www.aic.sg/care-services/active-ageing-centre-care-hub)
-
-
