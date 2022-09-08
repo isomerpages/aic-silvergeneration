@@ -19,4 +19,8 @@ From 6 November 2021, all Singapore Citizens or Permanent Residents born in 1979
 
 Click [here](https://www.aic.sg/Assessors-list) for the list of assessors.
 
-Click [here](https://efinance.aic.sg/) for aubmission of application
+For application through  AIC eService portal (eFASS), click [here](https://efinance.aic.sg/)
+please email us at [apply@aic.sg](mailto:apply@aic.sg) or walk in to any of our [AIC links](https://www.aic.sg/aic-link) to request for a hardcopy application form.
+
+
+
