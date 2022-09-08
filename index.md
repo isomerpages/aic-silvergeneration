@@ -41,7 +41,7 @@ sections:
   - infopic:
       title: SGO 8th Anniversary
       description: For our mightly Silver Generation ambassadors and esteemed partners
-      button: Click here to sign up
+      button: Click here to RSVP
       alt: Image alt text
       url: www.google.com
   - infobar:
