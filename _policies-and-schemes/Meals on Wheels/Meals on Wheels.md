@@ -41,5 +41,3 @@ Get a referral from a hospital or polyclinic that your elderly visits, or visit 
 For eligible clients, the service will cost approximately between $4.90 and $7 per meal (before subsidies). Subsidises are available depending on the means test results.  
 
 You may also visit the [E-care Locator](https://www.aic.sg/care-services/e-care-locator) to ask service providers for more details on their costs and services.
-
-
