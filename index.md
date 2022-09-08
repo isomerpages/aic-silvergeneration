@@ -40,7 +40,7 @@ sections:
       url: https://www.google.com.sg/maps/d/viewer?mid=1pS8QYFr6ks0dZ47So3BzMiwpqVhxmb7c&hl=en_GB&ll=1.3593061164125717%2C103.83711189999998&z=13
   - infopic:
       title: SGO 8th Anniversary
-      description: For our mightly Silver Generation ambassadors and esteemed partners
+      description: For our mighty Silver Generation ambassadors and esteemed partners
       button: Click here to RSVP
       alt: Image alt text
       url: https://form.gov.sg/#!/62f37085b278800013492486
