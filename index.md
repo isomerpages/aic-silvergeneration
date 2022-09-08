@@ -26,12 +26,9 @@ sections:
         - title: Sembawang SGO Staff
           description: Key Highlight description
           url: /about-us/SGO-Sembawang-Staff/
-  - infobar:
-      title: Infobar title
-      subtitle: SUbtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Bimonthly Newsletter
+          description: Sembawang | Our Space
+          url: www.google.com
   - infopic:
       title: Welcome,
       description: "We are the Silver Generation Office @ Sembawang. Our staff serve
@@ -41,6 +38,12 @@ sections:
       alt: Ikkkkk
       image: /images/Homepage_Sembawang SGO.jpeg
       url: https://www.google.com.sg/maps/d/viewer?mid=1pS8QYFr6ks0dZ47So3BzMiwpqVhxmb7c&hl=en_GB&ll=1.3593061164125717%2C103.83711189999998&z=13
+  - infobar:
+      title: Infobar title
+      subtitle: SUbtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
