@@ -17,8 +17,8 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Functional Screening
-          description: Project Silver Screen
+        - title: Project Silver Screen
+          description: Functional Screening
           url: https://www.healthhub.sg/programmes/160/AAP/functional-screening
         - title: Do you qualify for financial help?
           description: self-assessment-tool
