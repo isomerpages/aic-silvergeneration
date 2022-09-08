@@ -38,6 +38,12 @@ sections:
       alt: Ikkkkk
       image: /images/Homepage_Sembawang SGO.jpeg
       url: https://www.google.com.sg/maps/d/viewer?mid=1pS8QYFr6ks0dZ47So3BzMiwpqVhxmb7c&hl=en_GB&ll=1.3593061164125717%2C103.83711189999998&z=13
+  - infopic:
+      title: SGO 8th Anniversary
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: SGO 8th Anniversary
       subtitle: Latest Update
