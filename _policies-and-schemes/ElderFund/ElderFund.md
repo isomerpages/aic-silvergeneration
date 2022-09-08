@@ -23,6 +23,3 @@ For the list of assessors, click [here](https://www.aic.sg/financial-assistance/
 
 For application through  AIC eService portal (eFASS), click [here](https://efinance.aic.sg/)
 please email us at [apply@aic.sg](mailto:apply@aic.sg) or walk in to any of our [AIC links](https://www.aic.sg/aic-link) to request for a hardcopy application form.
-
-
-
