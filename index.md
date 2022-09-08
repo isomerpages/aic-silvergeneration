@@ -36,8 +36,8 @@ sections:
       url: /contact-us/
   - infopic:
       title: 8th Anniversary Celebration
-      description: For our mighty Silver Generation Ambassadors and esteemed Community
-        Partners
+      description: A joyous occasion with our mighty Silver Generation Ambassadors and
+        esteemed Community Partners.
       button: Click here to RSVP
       alt: Image alt text
       url: https://form.gov.sg/#!/62f37085b278800013492486
