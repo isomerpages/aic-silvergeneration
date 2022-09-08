@@ -18,9 +18,9 @@ sections:
         - title: Functional Screening
           description: Description
           url: https://google.com
-        - title: Activities
-          description: Upcoming events
-          url: https://gmail.com
+        - title: Do you qualify for financial help?
+          description: You may be eligible for !
+          url: https://www.aic.sg/
         - title: Services
           description: ""
           url: /privacy/
