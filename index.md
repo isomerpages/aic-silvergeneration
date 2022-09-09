@@ -42,11 +42,6 @@ sections:
       alt: Image alt text
       url: https://form.gov.sg/#!/62f37085b278800013492486
       image: /images/Homepage_A starry night.jpeg
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - resources:
       title: PLAN EARLY FOR YOUR FUTURE NEEDS
       button: Resources Button Name
