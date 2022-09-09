@@ -10,7 +10,7 @@ description: ""
 			<td>Head </td> 
   </tr>   
 	  <tr>  
-    <td><img src="/images/Angeline Tan_1.jpg" alt="Angeline Tan" style="width:400px;"/></td>  
+    <td><img src="/images/Angeline Tan 2.jpg" alt="Angeline Tan" style="width:400px;"/></td>  
     <td>Angeline Tan</td>
 		<td>Deputy Head</td>
   </tr>  
@@ -44,7 +44,7 @@ description: ""
 		<td>Division Lead , Woodlands</td>
   </tr>
 	<tr>  
-    <td><img src="/images/Koh_Hui Ying_1.jpg" alt="Koh Hui Ying" style="width:400px;"/></td>  
+    <td><img src="/images/Hui Ying.jpg" alt="Koh Hui Ying" style="width:400px;"/></td>  
     <td>Koh Hui Ying</td>
 		<td>Division Lead , Sembawang West</td>
   </tr>
