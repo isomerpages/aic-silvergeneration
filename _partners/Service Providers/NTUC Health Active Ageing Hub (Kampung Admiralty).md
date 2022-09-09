@@ -4,8 +4,10 @@ permalink: /partners/Service-Providers/NTUC-Active-Ageing/
 description: ""
 third_nav_title: Service Providers
 ---
-![](/images/NTUC%20Health.jpg)
-
+  <tr>  
+		<td><img src="/images/NTUC%20Health.jpg" 
+						 style="width:400px;"/></td>  	
+  </tr>   
 -------------------------------------------
 
 Building on more than four decades of experience and expertise, NTUC Health is among the largest senior day care, nursing home and home personal care providers in Singapore. NTUC Health also offers other services for seniors such as fitness classes and elderly gyms, and community support for vulnerable seniors. In addition, NTUC Health runs a chain of dental clinics, a family medicine clinic.
