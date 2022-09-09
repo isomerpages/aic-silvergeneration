@@ -15,4 +15,4 @@ Launched in 1997, AsiaMedic Limited is the leading healthcare provider in Singap
 For more info on AsiaMedic Limited, click [here](https://www.asiamedic.com.sg/)
 
 
-For direction to AsiaMedic Limited, click [here](https://www.google.com/maps/place//data=!4m2!3m1!1s0x31da198da089668d:0x616580e06eadcdf4?source=g.page.share)
+For direction to AsiaMedic Limited, click [here]([Asiamedic Wellness Assessment Centre - Google Maps](https://www.google.com/maps/place/Asiamedic+Wellness+Assessment+Centre/@1.3058292,103.8317094,17z/data=!3m1!4b1!4m5!3m4!1s0x31da198da089668d:0x616580e06eadcdf4!8m2!3d1.3058292!4d103.8317094))
