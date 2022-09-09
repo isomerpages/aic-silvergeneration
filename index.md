@@ -44,5 +44,4 @@ sections:
       image: /images/Homepage_A starry night.jpeg
   - resources:
       title: PLAN EARLY FOR YOUR FUTURE NEEDS
-      button: Resources Button Name
 ---
