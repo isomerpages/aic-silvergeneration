@@ -4,9 +4,10 @@ permalink: /partners/Service-Providers/permalink/LB/
 description: ""
 third_nav_title: Service Providers
 ---
-
-![](/images/LB.jpg)
-
+ <tr>  
+		<td><img src="/images/LB.jpg" 
+						 style="width:300px;"/></td>  	
+  </tr>   
 ---------------------------------------
 
 Lions District Project. LB's mission is to provide friendship and care for seniors to age in place with community participation, enabling them to enjoy meaningful enriching lives.
