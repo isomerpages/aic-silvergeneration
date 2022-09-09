@@ -10,7 +10,7 @@ description: ""
 <td>Sembawang GRC, Admiralty</td>
  </tr>
 	<tr> 
-<td><img src="/images/eec-drlim-preview.png" alt="Dr Lim Wee Kiak" style="width:400px;"/></td> 
+<td><img src="/images/eec-drlim-preview.png" alt="Dr Lim Wee Kiak" style="width:300px;"/></td> 
 <td>Dr Lim Wee Kiak</td>
 <td>Sembawang GRC, Canberra</td>
  </tr>		
