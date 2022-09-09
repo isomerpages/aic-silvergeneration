@@ -25,13 +25,9 @@ For example, the payments can offset:  
 The senior may nominate himself/herself, a caregiver who is 21 years old and above, or a nursing home that the senior is residing in to receive the IDAPE payout.
 
 
-For more info, click here [IDAPE](https://www.aic.sg/financial-assistance/interim-disability-assistance-programme-elderly)
+For more info on Interim Disability Assistance Programme for the Elderly, click here [here](https://www.aic.sg/financial-assistance/interim-disability-assistance-programme-elderly)
 
 For the list of assessors, click [here](https://www.aic.sg/Assessors-list)
 
 For application through  AIC eService portal (eFASS), click [here](https://efinance.aic.sg/)
 please email us at [apply@aic.sg](mailto:apply@aic.sg) or walk in to any of our [AIC links](https://www.aic.sg/aic-link) to request for a hardcopy application form.
-
-
-
-
