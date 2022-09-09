@@ -26,7 +26,7 @@ description: ""
 	</tr>		
 	<tr> 
 <tr> 
-<td><img src="/images/Ms Mariam Jaafar.jpg" alt="Ms Mariam Jaafar" style="width:200px;"/></td> 
+<td><img src="/images/Mariam_Jaafar-removebg-preview.png" alt="Ms Mariam Jaafar" style="width:150px;"/></td> 
 <td>Ms Mariam Jaafar</td>
 <td>Sembawang GRC, Woodlands</td>
 	</tr>			
