@@ -4,9 +4,11 @@ permalink: /partners/Regional-Health-Sector/Woodlands-Health/
 description: ""
 third_nav_title: Regional Health Sector
 ---
-
-
-![](/images/Woodlands%20HEalth.jpg)
+<tr>  
+		<td><img src="/images/Woodlands%20HEalth.jpg" 
+						 style="width:300px;"/></td>  	
+  </tr>   
+	
 
 ---------------------------------------------
 
