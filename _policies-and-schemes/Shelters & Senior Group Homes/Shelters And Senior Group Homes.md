@@ -14,4 +14,4 @@ Shelters and Senior Group Homes are for elderly people who can move about on the
 
 -------------------------------------------------
 
-For more info on Introduction to Senior Activity Centre, click [here](https://www.aic.sg/care-services/shelter-and-senior-group-home)
+For more info on Shelters And Senior Group Homes, click [here](https://www.aic.sg/care-services/shelter-and-senior-group-home)
