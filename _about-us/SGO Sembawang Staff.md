@@ -5,7 +5,7 @@ description: ""
 ---
 <table>  
   <tr>  
-		<td><img src="/images/KJ.jpg" alt="How Koon Jauw" style="width:400px;"/></td>  	
+		<td><img src="/images/Koon Jauw.jpg" alt="How Koon Jauw" style="width:400px;"/></td>  	
 		<td>How Koon Jauw</td>
 			<td>Head </td> 
   </tr>   
