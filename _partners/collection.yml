@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Regional Health Sector/Woodlands Polyclinic (NHGP).md
       - Regional Health Sector/Woodlands Health.md
       - Regional Health Sector/.keep
       - Our Grassroots Advisers.md
