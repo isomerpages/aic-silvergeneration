@@ -4,9 +4,11 @@ permalink: /partners/Service-Providers/Care-Corner/
 description: ""
 third_nav_title: Service Providers
 ---
-
-![](/images/Care%20corner.jpg)
-
+<tr>  
+		<td><img src="/images/Care%20corner.jpg" 
+						 style="width:300px;"/></td>  	
+  </tr>   
+	
 -----------------------------------------------
 Care Corner Active Ageing Hubs, Active Ageing Centres and Senior Activity Centres, serve as a communal space for the elderly to:
 - Socialise with peers, community partners and volunteers via our befriending and buddying programmes 
