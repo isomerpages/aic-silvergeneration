@@ -4,8 +4,11 @@ permalink: /partners/Service-Providers/HPB/
 description: ""
 third_nav_title: Service Providers
 ---
-![](/images/Health%20Promotion%20Board.jpg)
-
+<tr>  
+		<td><img src="/images/Health%20Promotion%20Board.jpg" 
+						 style="width:300px;"/></td>  	
+  </tr>   
+	
 ------------------------------------------
 
 Established in 2001, the Health Promotion Board (HPB) is a government organisation committed to promoting healthy living in Singapore. HPB is a credible and authoritative source of evidence-based health information that seeks to empower the Singapore public with knowledge and skills to take ownership of their health and live a healthy lifestyle. HPB, in turn, is guided by evidence-based health knowledge to formulate and implement health policies and programmes that will improve the nation’s health.
