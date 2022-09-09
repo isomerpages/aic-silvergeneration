@@ -15,7 +15,7 @@ description: ""
 <td>Sembawang GRC, Canberra</td>
  </tr>		
 <tr> 
-<td><img src="/images/Mr Ong Ye Kung.jpg" alt="Mr Ong Ye Kung" style="width:200px;"/></td> 
+<td><img src="/images/images-removebg-preview.png" alt="Mr Ong Ye Kung" style="width:200px;"/></td> 
 <td>Mr Ong Ye Kung</td>
 <td>Sembawang GRC, Sembawang Central</td>
  </tr>			
