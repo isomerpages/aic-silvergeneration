@@ -15,4 +15,3 @@ Since 2016, WH has started serving and empowering residents in their health jour
 --------------------------------------------
 
 For more info on Woodlands Health, click [here](https://www.whc.sg/)
-
