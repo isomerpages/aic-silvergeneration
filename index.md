@@ -13,7 +13,7 @@ sections:
       title: Kawan Sembawang
       subtitle: Bringing our seniors and community partners the best service, care,
         and partnerships.
-      background: /images/Kawan SemSO.jpg
+      background: /images/SGO pandemic visit.jpeg
       url: /contact-us/
       key_highlights:
         - title: Project Silver Screen
