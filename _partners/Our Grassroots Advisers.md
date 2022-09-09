@@ -20,7 +20,7 @@ description: ""
 <td>Sembawang GRC, Sembawang Central</td>
  </tr>			
 <tr> 
-<td><img src="/images/Ms Poh Li San.jpg" alt="Ms Poh Li San" style="width:200px;"/></td> 
+<td><img src="/images/Poh-Li-San-1-removebg-preview.png" alt="Ms Poh Li San" style="width:150px;"/></td> 
 <td>Ms Poh Li San</td>
 <td>Sembawang GRC, Sembawang West</td>
 	</tr>		
