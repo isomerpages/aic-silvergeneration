@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Sembawang Satellite Office
+agency_name: Silver Generation Office, Sembawang
 locations:
   - address:
       - 31 Woodlands Avenue 6
