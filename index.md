@@ -20,7 +20,7 @@ sections:
           description: Functional Screening
           url: https://www.healthhub.sg/programmes/160/AAP/functional-screening
         - title: Do you qualify for financial help?
-          description: self-assessment-tool
+          description: Use our self-assessment tool to find out
           url: https://www.aic.sg/financial-assistance/self-assessment-tool
         - title: Sembawang | Our Space
           description: Bimonthly Newsletter
