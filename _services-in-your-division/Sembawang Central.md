@@ -1,6 +1,6 @@
 ---
 title: Sembawang Central
 permalink: /services-in-your-division/sembawang-central/
-datagovsg-id: 6ffcd186-d94c-4531-ba90-d4c29286b40c
+datagovsg-id: 63cf8b00-553e-496f-a399-ffc67f096f26
 description: ""
 ---
