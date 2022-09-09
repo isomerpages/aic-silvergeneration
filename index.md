@@ -24,7 +24,7 @@ sections:
           url: https://www.aic.sg/financial-assistance/self-assessment-tool
         - title: Sembawang | Our Space
           description: Bimonthly Newsletter
-          url: /images/Sembawang_Newsletter_JPEG.jpg
+          url: /files/SembawangNewsletterVol6.pdf
   - infopic:
       title: Welcome,
       description: "We are the Silver Generation Office @ Sembawang. Our staff serve
