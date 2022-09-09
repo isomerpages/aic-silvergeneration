@@ -5,19 +5,19 @@ description: ""
 ---
 <table>  
   <tr>  
-			<td>Head , Sembawang Satellite Office</td>
-		  <td>How Koon Jauw</td>
-    <td><img src="/images/KJ.jpg" alt="How Koon Jauw" style="width:400px;"/></td>  	
+		<td><img src="/images/KJ.jpg" alt="How Koon Jauw" style="width:400px;"/></td>  	
+		<td>How Koon Jauw</td>
+			<td>Head </td> 
   </tr>   
 	  <tr>  
     <td><img src="/images/Angeline Tan_1.jpg" alt="Angeline Tan" style="width:400px;"/></td>  
     <td>Angeline Tan</td>
-		<td>Deputy Head , Sembawang Satellite Office</td>
+		<td>Deputy Head</td>
   </tr>  
 	<tr>  
-		<td>Deputy Head , Sembawang Satellite 	Office</td>
+		<td><img src="/images/Kelvin%20Ho.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
 		<td>Kelvin Ho</td>
-    <td><img src="/images/Kelvin%20Ho.jpg" alt="Kelvin Ho" style="width:400px;"/></td>  
+		<td>Deputy Head</td>	
   </tr>
 	<tr>  
     <td><img src="/images/Stephen_1.jpg" alt="Stephen Pang" style="width:400px;"/></td>      <td>Stephen Pang</td>
