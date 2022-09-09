@@ -18,4 +18,4 @@ Care Corner Active Ageing Hubs, Active Ageing Centres and Senior Activity Centre
 For more info on Care Corner Active Ageing Centre, click [here](https://www.carecorner.org.sg/active-ageing) 
 
 
-For direction to Care Corner Active Ageing Centre (WL569A), click [here](https://www.google.com/maps/place/Care+Corner+Active+Ageing+Centre+(WL569A)/@1.3845232,103.7311962,13z/data=!4m5!3m4!1s0x31da13bb2a7c8be3:0x3f1d859b43f2cade!8m2!3d1.4298931!4d103.789782?shorturl=1)
+For direction to Care Corner Active Ageing Centre (WL569A), click [here]([Care Corner Active Ageing Centre (WL569A) - Google Maps](https://www.google.com/maps/place/Care+Corner+Active+Ageing+Centre+(WL569A)/@1.3845232,103.7311962,13z/data=!4m5!3m4!1s0x31da13bb2a7c8be3:0x3f1d859b43f2cade!8m2!3d1.4298931!4d103.789782))
