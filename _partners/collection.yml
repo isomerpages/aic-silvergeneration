@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Service Providers/.keep
       - Our Grassroots Advisers.md
       - Active Ageing Centre & Hub/.keep
       - Active Ageing Centre & Hub/AAC and AACH.md
@@ -11,3 +10,4 @@ collections:
       - Regional Health Sector/.keep
       - Regional Health Sector/Woodlands Health.md
       - Regional Health Sector/Woodlands Polyclinic (NHGP).md
+      - Service Providers/.keep
