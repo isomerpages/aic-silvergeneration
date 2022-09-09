@@ -5,7 +5,7 @@ description: ""
 ---
 <table> 
 <tr> 
-<td><img src="/images/Mr Vikram Nair.jpg" alt="How Koon Jauw" style="width:200px;"/></td> 
+<td><img src="/images/vikram-nair-v1.png" alt="Mr Vikram Nair" style="width:200px;"/></td> 
 <td>Mr Vikram Nair </td>
 <td>Sembawang GRC, Admiralty</td>
  </tr>
