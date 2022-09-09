@@ -4,8 +4,11 @@ permalink: /partners/Service-Providers/minmed/
 description: ""
 third_nav_title: Service Providers
 ---
-
-![](/images/Minmed%20.jpg)
+<tr>  
+		<td><img src="/images/Minmed%20.jpg" 
+						 style="width:300px;"/></td>  	
+  </tr>   
+	
 
 ------------------------------------------
 
