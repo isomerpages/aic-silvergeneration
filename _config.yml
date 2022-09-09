@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/AICSGO-Main Logo CMYK.jpg
 colors:
   primary-color: "#f5a623"
-  secondary-color: "#d0021b"
+  secondary-color: "#4a4a4a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
