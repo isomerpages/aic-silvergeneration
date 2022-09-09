@@ -13,7 +13,7 @@ locations:
         time: 8.30am - 6.00pm
         description: ""
     maps_link: https://www.google.com.sg/maps/@1.4390425,103.8003742,17z
-    title: SGD Sembawang Satellite Office
+    title: Sembawang Satellite Office
 contacts:
   - content:
       - phone: +65 6767 1406
