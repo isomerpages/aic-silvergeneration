@@ -4,7 +4,7 @@ permalink: /partners/Service-Providers/Asia-Medic/
 description: ""
 third_nav_title: Service Providers
 ---
- <tr>  
+<tr>  
 		<td><img src="/images/Asiamedic.jpg" 
 						 style="width:300px;"/></td>  	
   </tr>   
