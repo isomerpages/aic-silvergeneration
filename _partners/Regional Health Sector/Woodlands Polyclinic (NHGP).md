@@ -4,7 +4,11 @@ permalink: /partners/Regional-Health-Sector/permalink/
 description: ""
 third_nav_title: Regional Health Sector
 ---
-![](/images/Woodlands%20Polyclinic.jpg)
+<tr>  
+		<td><img src="/images/Woodlands%20Polyclinic.jpg" 
+						 style="width:500px;"/></td>  	
+  </tr>   
+	
 
 -------------------------------------------------------
 
