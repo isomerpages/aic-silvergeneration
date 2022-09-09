@@ -48,7 +48,6 @@ sections:
       description: Infobar description
       button: Button Text
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      title: PLAN EARLY FOR YOUR FUTURE NEEDS
       button: Resources Button Name
 ---
