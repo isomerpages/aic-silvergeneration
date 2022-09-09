@@ -4,9 +4,10 @@ permalink: /partners/Service-Providers/Asia-Medic/
 description: ""
 third_nav_title: Service Providers
 ---
-
-![](/images/Asiamedic.jpg)
-
+ <tr>  
+		<td><img src="/images/Asiamedic.jpg" 
+						 style="width:300px;"/></td>  	
+  </tr>   
 -------------------------------------
 
 Launched in 1997, AsiaMedic Limited is the leading healthcare provider in Singapore. It provides healthcare services, and focuses on the management of clinical services in the fields of disease prevention, early illness detection, medical imaging, and medical aesthetics. 
