@@ -2,6 +2,7 @@ collections:
   test:
     output: true
     order:
+      - Test 2/Test 2 Page.md
       - Test 2/.keep
       - What What.md
       - Test.md
