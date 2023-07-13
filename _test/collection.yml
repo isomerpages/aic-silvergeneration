@@ -2,4 +2,5 @@ collections:
   test:
     output: true
     order:
+      - What What.md
       - Test.md
