@@ -1,0 +1,6 @@
+collections:
+  test:
+    output: true
+    order:
+      - Test 2.md
+      - Test 1.md

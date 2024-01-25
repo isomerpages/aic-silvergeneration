@@ -1,0 +1,51 @@
+collections:
+  policies-and-schemes:
+    output: true
+    order:
+      - AACH & AAC/.keep
+      - AACH & AAC/Active Ageing Centres n Active Ageing Care Hubs (AAC AACHs).md
+      - Advance Care Planning/.keep
+      - Advance Care Planning/Advance Care Planning.md
+      - AIC Wellness Programme/.keep
+      - AIC Wellness Programme/AIC Wellness Programme.md
+      - Befriending Service/.keep
+      - Befriending Service/Befriending Service.md
+      - Caregivers Training Grant/.keep
+      - Caregivers Training Grant/Caregivers Training Grant (CTG).md
+      - CareShield Life/.keep
+      - CareShield Life/CareShield Life.md
+      - CHAS/.keep
+      - CHAS/CHAS.md
+      - EASE/.keep
+      - EASE/Enhancement for Active Seniors (EASE).md
+      - ElderFund/.keep
+      - ElderFund/ElderFund.md
+      - ElderShield/.keep
+      - ElderShield/ElderShield.md
+      - Home Caregiving Grant/.keep
+      - Home Caregiving Grant/Home Caregiving Grant.md
+      - IDAPE/.keep
+      - IDAPE/IDAPE.md
+      - Integrated Home And Day Care/.keep
+      - Integrated Home And Day Care/Integrated Home And Day Care (IHDC)
+        Packages.md
+      - MDWLC/.keep
+      - MDWLC/Migrant Domestic Worker (MDW) Levy Concession.md
+      - Meals on Wheels/.keep
+      - Meals on Wheels/Meals on Wheels.md
+      - Medical Escort and Transport/.keep
+      - Medical Escort and Transport/Medical Escort and Transport.md
+      - Medifund/.keep
+      - Medifund/Medifund.md
+      - MediSave Care/.keep
+      - MediSave Care/MediSave Care.md
+      - MediShield Life/.keep
+      - MediShield Life/MediShield Life.md
+      - PioneerDAS/.keep
+      - PioneerDAS/Pioneer Generation Disability Assistance Scheme (PGDas).md
+      - Senior Activity Centre/.keep
+      - Senior Activity Centre/Senior Activity Centre.md
+      - Shelters & Senior Group Homes/.keep
+      - Shelters & Senior Group Homes/Shelters And Senior Group Homes.md
+      - SMF/.keep
+      - SMF/Seniors' Mobility and Enabling Fund.md

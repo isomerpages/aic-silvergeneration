@@ -1,0 +1,13 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - SGO Sembawang Staff.md
+      - Divisions/.keep
+      - Divisions/Admiralty.md
+      - Divisions/Canberra.md
+      - Divisions/Sembawang Central.md
+      - Divisions/Sembawang West.md
+      - Divisions/Woodlands.md
+      - Contact Us/.keep
+      - Location/.keep

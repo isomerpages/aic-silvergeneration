@@ -1,0 +1,12 @@
+logo: /images/AICSGO-Main Logo CMYK.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Policies and Schemes
+    collection: policies-and-schemes
+  - title: Partners
+    collection: partners
+  - title: Services in your Division
+    collection: services-in-your-division
+  - title: Contact Us
+    url: /contact-us/
